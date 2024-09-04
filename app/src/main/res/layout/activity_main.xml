@@ -26,6 +26,7 @@
         android:padding="8dp">
 
         <LinearLayout
+            android:id="@+id/btn"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="#f0f" />
